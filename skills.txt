@@ -1,0 +1,9 @@
+Скиллы которые будут изучены на курсе:
+    1) Postman
+    2) Charles
+    3) Feedler
+    4) HTTP
+    5) REST
+    6) SOAP
+    7) GIT
+    8) SQL
